@@ -30,7 +30,7 @@ In your command line, follow the provided link that looks like this: `http://127
 
 ## Interview Questions
 
-We would also like you to consider the following situations and be prepared to discuss how you would handle these situations. You do not need to provide written answers here, just be prepared to discuss.
+We would also like you to consider the following situations and be prepared to discuss how you would handle these. You do not need to provide written answers here, just be prepared to discuss.
 
 
 #### Question 1
