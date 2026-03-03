@@ -3,7 +3,6 @@ services:
   interview:
     build:
       context: .
-    platform: linux/amd64
     ports:
       - "8888:8888"
     volumes:
